@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../todo-list"
+		},
+		{
+			"name": "todo-azure-functions",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
